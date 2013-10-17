@@ -1,0 +1,6 @@
+(1) given a set of 'clips' C where clips are of equal length, find the most
+    common sound in C
+
+    10-15-13: Made progress with DBSCAN algorithm. Now it runs way to slowly
+              to ever be useful. Next time choose less windows and try to
+              find a dog bark in the three input files

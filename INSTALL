@@ -1,0 +1,16 @@
+final project, research, for MLSP
+
+Robert kotcher
+
+INSTALLATION
+---------------------------------------------------------
+to make sure you have all necessary dependencies to run this code, you need to install the scipi stack for python. If you
+don't have python, install it. then install the scipi stack with these commands:
+
+MacOSX:
+sudo port install py27-numpy py27-scipy py27-matplotlib py27-ipython +notebook py27-pandas py27-sympy py27-nose
+
+*Note for Mac: I had to use easy_install for scipy and matplotlib, i.e., try sudo easy_install -m matplotlib
+
+Ubuntu & Debian:
+sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
